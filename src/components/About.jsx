@@ -171,7 +171,7 @@ const About = ({ setSelectedPage }) => (
         <img src={profileImage} alt="Prem Kumar" />
       </ProfilePic>
       <Bottom>
-        <div className="initial-title">Prem Kumar | Full Stack Web Developer</div>
+        <div className="initial-title">Prem Kumar | Full Stack Developer</div>
         <Content>
           <h2>Prem Kumar</h2>
           <p className="role-description">
